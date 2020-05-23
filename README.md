@@ -1,5 +1,5 @@
-# IBM Cloud PXE server (WIP)
-Example of how to deploy a PXE host to help with the installation and initial deployment of Bare Metal [NO OS](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-no-os) servers on the IBM Cloud. This allows for greater automation for customers that need to load a custom operating system on to a NO OS server. 
+# Installation of seL4 system on the IBM Cloud server (WIP)
+Example of how to deploy seL4 based system using PXE technology to Bare Metal [NO OS](https://cloud.ibm.com/docs/bare-metal?topic=bare-metal-bm-no-os) server on the IBM Cloud. This allows for greater automation for customers that need to build and deploy seL4 based system for each new application. 
 
 ## The code in this example will:
  - Create a new VLAN for PXE deployment environment
